@@ -1,4 +1,5 @@
-import urllib2, json
+import urllib2.request
+import json
 
 class UPCDB():
 	class UPC():
